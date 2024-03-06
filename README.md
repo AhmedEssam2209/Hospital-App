@@ -51,6 +51,10 @@ Database schema : <br/>
 <img src="https://imgur.com/hC634sz.png" height="80%" width="80%" alt="Schema of database tables"/>
 <br />
 <br />
+ER diagram :  <br/>
+<img src="https://imgur.com/rl3DDgv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 Manager ordering pharmaceuticals :  <br/>
 <img src="https://imgur.com/zilwdS3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
