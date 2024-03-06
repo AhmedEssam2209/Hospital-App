@@ -44,36 +44,26 @@ This project is an application on .net core WinForms that gives various function
 - <b>SQL server</b>
 
 
-
 <h2>Project screenshots:</h2>
 
 <p align="center">
 Database schema : <br/>
-<img src="https://imgur.com/a/aM3AqiK" height="80%" width="80%" alt="Schema of database tables"/>
+<img src="https://imgur.com/hC634sz.png" height="80%" width="80%" alt="Schema of database tables"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Manager ordering pharmaceuticals :  <br/>
+<img src="https://imgur.com/zilwdS3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Firing doctor/nurse: <br/>
+<img src="https://imgur.com/5VE2YI5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Patient choosing doctor :  <br/>
+<img src="https://imgur.com/9coBoXb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 
 <!--
